@@ -10,13 +10,13 @@ HTML e CSS HTML and CSS project of a pet parlor landing page using background, s
 - [ ] Estruturação da página HTML para posterior estilização
 - [ ] Reset das especificações CSS padrões
 - [ ] Definição de elementos essenciais e estilizações comuns
-- [ ] Sessão 1 concluída
-- [ ] Sessão 2 concluída
-- [ ] Sessão 3 concluída
-- [ ] Sessão 4 concluída
-- [ ] Sessão 5 concluída
-- [ ] Sessão 6 concluída
-- [ ] Sessão 7 concluída
+- [ ] Sessão 1 - Banner - concluída
+- [ ] Sessão 2 - Serviços - concluída
+- [ ] Sessão 3 - Faixa das Redes Sociais - concluída
+- [ ] Sessão 4 - Marcas - concluída
+- [ ] Sessão 5 - Faixa das Redes Sociais - concluída
+- [ ] Sessão 6 - Onde Estamos - concluída
+- [ ] Sessão 7 - Rodapé - concluída
 - [ ] Projeto concluído
 
 
@@ -24,11 +24,11 @@ HTML e CSS HTML and CSS project of a pet parlor landing page using background, s
 - [ ] HTML page structuring to styling process
 - [ ] Reset CSS patterns
 - [ ] Setting basis and commons styles and elements
-- [ ] Sessão 1 concluded
-- [ ] Sessão 2 concluded
-- [ ] Sessão 3 concluded
-- [ ] Sessão 4 concluded
-- [ ] Sessão 5 concluded
-- [ ] Sessão 6 concluded
-- [ ] Sessão 7 concluded
+- [ ] Sessão 1 - Banner - concluded
+- [ ] Sessão 2 - Services - concluded
+- [ ] Sessão 3 - Social Media - concluded
+- [ ] Sessão 4 - Brands - concluded
+- [ ] Sessão 5 - Social Media - concluded
+- [ ] Sessão 6 - Our Location - concluded
+- [ ] Sessão 7 - Footer - concluded
 - [ ] Project concluded
