@@ -7,8 +7,8 @@ Projeto de um Pet Shop landing page usando recursos de background, posicionament
 HTML e CSS HTML and CSS project of a pet parlor landing page using background, shadow, box elements and others features
 
 ## PROGRESSO
-- [ ] Estruturação da página HTML para posterior estilização
-- [ ] Reset das especificações CSS padrões
+- [X] Estruturação da página HTML para posterior estilização
+- [X] Reset das especificações CSS padrões
 - [ ] Definição de elementos essenciais e estilizações comuns
 - [ ] Sessão 1 - Banner - concluída
 - [ ] Sessão 2 - Serviços - concluída
@@ -21,8 +21,8 @@ HTML e CSS HTML and CSS project of a pet parlor landing page using background, s
 
 
 ## PROGRESS
-- [ ] HTML page structuring to styling process
-- [ ] Reset CSS patterns
+- [X] HTML page structuring to styling process
+- [X] Reset CSS patterns
 - [ ] Setting basis and commons styles and elements
 - [ ] Sessão 1 - Banner - concluded
 - [ ] Sessão 2 - Services - concluded
