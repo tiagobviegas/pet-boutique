@@ -1,7 +1,7 @@
 # Pet Boutique project
 
 ## [PT-BR]
-Projeto de um Pet Shop landing page usando recursos de background, posicionamento e box elements
+Projeto de landing page de um Pet Shop usando recursos de background, posicionamento e box elements
 
 ## [EN-US]
 HTML e CSS HTML and CSS project of a pet parlor landing page using background, shadow, box elements and others features
