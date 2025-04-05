@@ -1,3 +1,78 @@
 * {
   margin: 0;
+  font-family: sans-serif;
+}
+
+/* Estilos Comuns | Common Style */
+
+a {
+  text-decoration: none;
+}
+
+/* Seção Banner | Banner Section */
+
+.secao-banner {
+  width: 100%;
+  height: auto;
+  padding: 120px 80px;
+  background-image: url('assets/img/banner-topo.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+#container-logo {
+  max-width: 250px;
+  color: #3c184e;
+}
+
+#logo {
+  font-size: 35px;
+  margin: 0px 0px 5px;
+}
+
+#logo img {
+  width: 30px;
+  margin-right: 5px;
+}
+
+#slogan {
+  font-size: 14px;
+  text-align: center;
+  margin: 0;
+}
+
+#container-banner {
+  max-width: 1024px;
+  border-radius: 10px;
+  padding: 40px;
+  margin: 70px auto 0 auto;
+  background-color: #ffffffc4;
+  box-shadow: 0 8px 32px 0 #1f26875e;
+}
+
+#container-banner h1 {
+  font-size: 60px;
+  color: #3c184e;
+  text-align: center;
+  font-weight: 800;
+  margin: 0px 0px 40px;
+}
+
+#container-banner p {
+  width: 200px;
+  padding: 10px 25px;
+  margin: 0px auto;
+  border-radius: 10px;
+  background-color: #3c184e;
+  font-size: 20px;
+  text-align: center;
+}
+
+#container-banner p a {
+  text-decoration: none;
+  color: #ffff;
+}
+
+#container-banner p img {
+  width: 20px;
 }
