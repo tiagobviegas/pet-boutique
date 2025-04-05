@@ -9,26 +9,26 @@ HTML e CSS HTML and CSS project of a pet parlor landing page using background, s
 ## PROGRESSO
 - [X] Estruturação da página HTML para posterior estilização
 - [X] Reset das especificações CSS padrões
-- [ ] Definição de elementos essenciais e estilizações comuns
-- [ ] Sessão 1 - Banner - concluída
-- [ ] Sessão 2 - Serviços - concluída
-- [ ] Sessão 3 - Faixa das Redes Sociais - concluída
-- [ ] Sessão 4 - Marcas - concluída
-- [ ] Sessão 5 - Faixa das Redes Sociais - concluída
-- [ ] Sessão 6 - Onde Estamos - concluída
-- [ ] Sessão 7 - Rodapé - concluída
+- [X] Definição de elementos essenciais e estilizações comuns
+- [X] Seção 1 - Banner - concluída
+- [ ] Seção 2 - Serviços - concluída
+- [ ] Seção 3 - Faixa das Redes Sociais - concluída
+- [ ] Seção 4 - Marcas - concluída
+- [ ] Seção 5 - Faixa das Redes Sociais - concluída
+- [ ] Seção 6 - Onde Estamos - concluída
+- [ ] Seção 7 - Rodapé - concluída
 - [ ] Projeto concluído
 
 
 ## PROGRESS
 - [X] HTML page structuring to styling process
 - [X] Reset CSS patterns
-- [ ] Setting basis and commons styles and elements
-- [ ] Sessão 1 - Banner - concluded
-- [ ] Sessão 2 - Services - concluded
-- [ ] Sessão 3 - Social Media - concluded
-- [ ] Sessão 4 - Brands - concluded
-- [ ] Sessão 5 - Social Media - concluded
-- [ ] Sessão 6 - Our Location - concluded
-- [ ] Sessão 7 - Footer - concluded
+- [X] Setting basis and commons styles and elements
+- [X] Section 1 - Banner - concluded
+- [ ] Section 2 - Services - concluded
+- [ ] Section 3 - Social Media - concluded
+- [ ] Section 4 - Brands - concluded
+- [ ] Section 5 - Social Media - concluded
+- [ ] Section 6 - Our Location - concluded
+- [ ] Section 7 - Footer - concluded
 - [ ] Project concluded
