@@ -1,20 +1,28 @@
 * {
   margin: 0;
+  padding: 0;
   font-family: sans-serif;
+  box-sizing: border-box;
+  text-decoration: none;
 }
 
-/* Estilos Comuns | Common Style */
+/* Estilos Comuns | Common Styles */
 
-a {
-  text-decoration: none;
+.alinhamento {
+  width: 100%;
+  padding: 120px 80px;
+}
+
+h3 {
+  font-size: 36px;
+  color: #3c184e;
+  text-align: center;
+  margin: 0 0 45px;
 }
 
 /* Seção Banner | Banner Section */
 
 .secao-banner {
-  width: 100%;
-  height: auto;
-  padding: 120px 80px;
   background-image: url('assets/img/banner-topo.jpg');
   background-position: center;
   background-size: cover;
@@ -45,7 +53,7 @@ a {
   max-width: 1024px;
   border-radius: 10px;
   padding: 40px;
-  margin: 70px auto 0 auto;
+  margin: 70px auto 0;
   background-color: #ffffffc4;
   box-shadow: 0 8px 32px 0 #1f26875e;
 }
@@ -79,18 +87,6 @@ a {
 
 /* Seção Serviços | Services Section */
 
-.secao-servicos {
-  width: 100%;
-  padding: 120px 80px;
-}
-
-.secao-servicos h3 {
-  font-size: 36px;
-  color: #3c184e;
-  text-align: center;
-  margin: 0 0 45px;
-}
-
 .container-lista {
   max-width: 800px;
   margin: 0 auto 50px;
@@ -122,7 +118,6 @@ a {
 /* Seção Faixa das Redes Sociais | Social Media Section */
 
 .container-redes-sociais {
-  padding: 120px 80px;
   background-color: #3c184e;
   text-align: center;
 }
@@ -153,18 +148,6 @@ a {
 
 /* Seção Marcas | Brands Section */
 
-.secao-marcas {
-  width: 100%;
-  padding: 120px 80px;
-}
-
-.secao-marcas h3 {
-  font-size: 36px;
-  color: #3c184e;
-  text-align: center;
-  margin: 0 0 45px;
-}
-
 .container-marcas {
   max-width: 800px;
   margin: 0 auto 0;
@@ -179,16 +162,7 @@ a {
 /* Seção Onde Estamos | Our Location Section */
 
 .secao-onde-estamos {
-  width: 100%;
-  padding: 120px 80px;
   text-align: center;
-}
-
-.secao-onde-estamos h3 {
-  font-size: 36px;
-  color: #3c184e;
-  text-align: center;
-  margin: 0 0 45px;
 }
 
 .secao-onde-estamos p {
@@ -207,7 +181,7 @@ iframe {
 
 .rodape {
   width: 100%;
-  padding: 10px 0;
+  padding: 10px 0px;
   background-color: #3c184e;
 }
 
