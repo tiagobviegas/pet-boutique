@@ -1,26 +1,26 @@
 TOPO
     - Pet Boutique         
-    - Estilo e Elegância para Cães e Gatos
+    - Estilo e Elegï¿½ncia para Cï¿½es e Gatos
     - Tenha o melhor tratamento para o seu parceiro
 
-SERVIÇOS
-    - Alguns dos nossos serviços
-    - Banho & Tosa: Banho, hidratação, tosa higiênica, tosa de cachorros de diversas raças e outros serviços feitos por profissionais parceiros especialistas no assunto.              
-    - Veterinário 24h: A saúde do seu melhor amigo em boas mãos, consultas, exames e vacinas com médicos-veterinários parceiros.
-    - Dog Walker: Sem tempo para sair com seu cachorro? Além de caminhadas, os passeadores parceiros Pet Anjo ainda corrigem comportamentos e ensinam comandos básicos.
-    - Creche Pet: A creche para cachorro é uma solução personalizada para quem não quer deixar pet sozinho em casa durante o dia. Brincadeiras, cuidados e muito carinho!
-    - Produtos para seu pet: Explore nossa loja repleta de produtos premium para animais de estimação. De alimentos saudáveis a brinquedos divertidos e acessórios elegantes.
+SERVIï¿½OS
+    - Alguns dos nossos serviï¿½os
+    - Banho & Tosa: Banho, hidrataï¿½ï¿½o, tosa higiï¿½nica, tosa de cachorros de diversas raï¿½as e outros serviï¿½os feitos por profissionais parceiros especialistas no assunto.              
+    - Veterinï¿½rio 24h: A saï¿½de do seu melhor amigo em boas mï¿½os, consultas, exames e vacinas com mï¿½dicos-veterinï¿½rios parceiros.
+    - Dog Walker: Sem tempo para sair com seu cachorro? Alï¿½m de caminhadas, os passeadores parceiros Pet Anjo ainda corrigem comportamentos e ensinam comandos bï¿½sicos.
+    - Creche Pet: A creche para cachorro ï¿½ uma soluï¿½ï¿½o personalizada para quem nï¿½o quer deixar pet sozinho em casa durante o dia. Brincadeiras, cuidados e muito carinho!
+    - Produtos para seu pet: Explore nossa loja repleta de produtos premium para animais de estimaï¿½ï¿½o. De alimentos saudï¿½veis a brinquedos divertidos e acessï¿½rios elegantes.
 
 FAIXAS
     - Aqui na Pet Boutique somos apaixonados pelo que fazemos
-    - Na Pet Boutique você encontra Estilo e Elegância para Cães e Gatos
+    - Na Pet Boutique vocï¿½ encontra Estilo e Elegï¿½ncia para Cï¿½es e Gatos
 
 MARCAS
     - Nossas principais marcas
 
 ONDE ESTAMOS
     - Onde estamos
-    - Se ficou interessado em nossos serviços, venha nos conhecer
+    - Se ficou interessado em nossos serviï¿½os, venha nos conhecer
 
-RODAPÉ
+RODAPï¿½
     - Desenvolvido por (Nome do desenvolvedor)
