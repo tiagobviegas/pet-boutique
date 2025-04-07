@@ -20,28 +20,28 @@ a {
   background-size: cover;
 }
 
-#container-logo {
+.container-logo {
   max-width: 250px;
   color: #3c184e;
 }
 
-#logo {
+.logo {
   font-size: 35px;
   margin: 0px 0px 5px;
 }
 
-#logo img {
+.logo img {
   width: 30px;
   margin-right: 5px;
 }
 
-#slogan {
+.slogan {
   font-size: 14px;
   text-align: center;
   margin: 0;
 }
 
-#container-banner {
+.container-banner {
   max-width: 1024px;
   border-radius: 10px;
   padding: 40px;
@@ -50,7 +50,7 @@ a {
   box-shadow: 0 8px 32px 0 #1f26875e;
 }
 
-#container-banner h1 {
+.container-banner h1 {
   font-size: 60px;
   color: #3c184e;
   text-align: center;
@@ -58,7 +58,7 @@ a {
   margin: 0px 0px 40px;
 }
 
-#container-banner p {
+.container-banner p {
   width: 200px;
   padding: 10px 25px;
   margin: 0px auto;
@@ -68,12 +68,12 @@ a {
   text-align: center;
 }
 
-#container-banner p a {
+.container-banner p a {
   text-decoration: none;
   color: #ffff;
 }
 
-#container-banner p img {
+.container-banner p img {
   width: 20px;
 }
 
@@ -118,3 +118,36 @@ a {
   border-radius: 5px;
   box-shadow: 3px 6px 10px 6px #0000005c;
 }
+
+/* Seção Faixa das Redes Sociais | Social Media Section */
+
+.container-redes-sociais {
+  padding: 120px 80px;
+  background-color: #3c184e;
+  text-align: center;
+}
+
+.container-redes-sociais p {
+  max-width: 800px;
+  margin: 0 auto 50px;
+  font-size: 40px;
+  color: #fff;
+  text-align: center;
+}
+
+.destaque-redes {
+  font-weight: 700;
+  font-style: italic;
+}
+
+.container-logo-redes a {
+  text-align: center;
+  text-decoration: none;
+  margin: 0 20px;
+}
+
+.container-logo-redes a img {
+  width: 50px;
+  height: 50px;
+}
+
