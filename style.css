@@ -175,3 +175,44 @@ a {
   height: 148px;
   margin: 0 15px 0;
 }
+
+/* Seção Onde Estamos | Our Location Section */
+
+.secao-onde-estamos {
+  width: 100%;
+  padding: 120px 80px;
+  text-align: center;
+}
+
+.secao-onde-estamos h3 {
+  font-size: 36px;
+  color: #3c184e;
+  text-align: center;
+  margin: 0 0 45px;
+}
+
+.secao-onde-estamos p {
+  font-size: 20px;
+  color: #3c184e;
+  text-align: center;
+  margin: 0 0 45px;
+}
+
+iframe {
+  width: 800px;
+  height: 450px;
+}
+
+/* Seção Rodapé | Footer Section */
+
+.rodape {
+  width: 100%;
+  padding: 10px 0;
+  background-color: #3c184e;
+}
+
+.rodape p {
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+}
