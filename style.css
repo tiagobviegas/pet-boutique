@@ -151,3 +151,27 @@ a {
   height: 50px;
 }
 
+/* Seção Marcas | Brands Section */
+
+.secao-marcas {
+  width: 100%;
+  padding: 120px 80px;
+}
+
+.secao-marcas h3 {
+  font-size: 36px;
+  color: #3c184e;
+  text-align: center;
+  margin: 0 0 45px;
+}
+
+.container-marcas {
+  max-width: 800px;
+  margin: 0 auto 0;
+}
+
+.container-marcas img {
+  width: 148px;
+  height: 148px;
+  margin: 0 15px 0;
+}
