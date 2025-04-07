@@ -107,3 +107,14 @@ a {
   font-weight: 700;
   font-style: italic;
 }
+
+.container-imagens {
+ max-width: 800px;
+ margin: 0 auto 0;
+ text-align: center;
+}
+
+.container-imagens img {
+  border-radius: 5px;
+  box-shadow: 3px 6px 10px 6px #0000005c;
+}
