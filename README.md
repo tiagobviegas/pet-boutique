@@ -12,9 +12,9 @@ HTML e CSS HTML and CSS project of a pet parlor landing page using background, s
 - [X] Definição de elementos essenciais e estilizações comuns
 - [X] Seção 1 - Banner - concluída
 - [X] Seção 2 - Serviços - concluída
-- [ ] Seção 3 - Faixa das Redes Sociais - concluída
+- [X] Seção 3 - Faixa das Redes Sociais - concluída
 - [ ] Seção 4 - Marcas - concluída
-- [ ] Seção 5 - Faixa das Redes Sociais - concluída
+- [X] Seção 5 - Faixa das Redes Sociais - concluída
 - [ ] Seção 6 - Onde Estamos - concluída
 - [ ] Seção 7 - Rodapé - concluída
 - [ ] Projeto concluído
@@ -26,9 +26,9 @@ HTML e CSS HTML and CSS project of a pet parlor landing page using background, s
 - [X] Setting basis and commons styles and elements
 - [X] Section 1 - Banner - concluded
 - [X] Section 2 - Services - concluded
-- [ ] Section 3 - Social Media - concluded
+- [X] Section 3 - Social Media - concluded
 - [ ] Section 4 - Brands - concluded
-- [ ] Section 5 - Social Media - concluded
+- [X] Section 5 - Social Media - concluded
 - [ ] Section 6 - Our Location - concluded
 - [ ] Section 7 - Footer - concluded
 - [ ] Project concluded
