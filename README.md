@@ -15,8 +15,8 @@ HTML e CSS HTML and CSS project of a pet parlor landing page using background, s
 - [X] Seção 3 - Faixa das Redes Sociais - concluída
 - [X] Seção 4 - Marcas - concluída
 - [X] Seção 5 - Faixa das Redes Sociais - concluída
-- [ ] Seção 6 - Onde Estamos - concluída
-- [ ] Seção 7 - Rodapé - concluída
+- [X] Seção 6 - Onde Estamos - concluída
+- [X] Seção 7 - Rodapé - concluída
 - [ ] Refatoração
 - [ ] Projeto concluído
 
@@ -30,7 +30,7 @@ HTML e CSS HTML and CSS project of a pet parlor landing page using background, s
 - [X] Section 3 - Social Media - concluded
 - [X] Section 4 - Brands - concluded
 - [X] Section 5 - Social Media - concluded
-- [ ] Section 6 - Our Location - concluded
-- [ ] Section 7 - Footer - concluded
+- [X] Section 6 - Our Location - concluded
+- [X] Section 7 - Footer - concluded
 - [ ] Refactoring
 - [ ] Project concluded
