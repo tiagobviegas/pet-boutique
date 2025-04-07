@@ -76,3 +76,34 @@ a {
 #container-banner p img {
   width: 20px;
 }
+
+/* Seção Serviços | Services Section */
+
+.secao-servicos {
+  width: 100%;
+  padding: 120px 80px;
+}
+
+.secao-servicos h3 {
+  font-size: 36px;
+  color: #3c184e;
+  text-align: center;
+  margin: 0 0 45px;
+}
+
+.container-lista {
+  max-width: 800px;
+  margin: 0 auto 50px;
+  color: #3c184e;
+}
+
+.container-lista li {
+  list-style-type: square;
+  font-size: 20px;
+  margin: 0 0 20px;
+}
+
+.destaque-lista {
+  font-weight: 700;
+  font-style: italic;
+}
